@@ -1,3 +1,3 @@
-Projet de création de base de données relationnelles complexe\
+Projet de création de base de données relationnelles complexes\
 Contraintes, PK, FK\
-Integrations des données dans la base\
+Intégrations des données dans la base.
