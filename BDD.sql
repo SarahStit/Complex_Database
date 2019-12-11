@@ -1,4 +1,4 @@
-USE Broker_Project;
+USE BDD_Project;
 CREATE TABLE IF NOT EXISTS customers(
     customer_id INT AUTO_INCREMENT PRIMARY KEY,
     last_name VARCHAR(40),
